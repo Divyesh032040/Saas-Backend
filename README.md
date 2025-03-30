@@ -3,6 +3,16 @@ A **scalable, secure, and multi-tenant** backend with **role-based APIs** for Cl
 
 ---
 
+
+### data modal
+  ![Screenshot (50)](https://github.com/user-attachments/assets/96b73910-a4e8-4dac-905f-60841efb8f60)
+
+### APIs
+
+![Screenshot (51)](https://github.com/user-attachments/assets/7457f242-fcb2-461d-802f-55dc6c16e13a)
+
+---
+
 ## **Role-Based APIs**  
 
 ### **1. Client APIs** (End-User)  
@@ -19,13 +29,6 @@ A **scalable, secure, and multi-tenant** backend with **role-based APIs** for Cl
 - **Admins**: `POST /admins`, `DELETE /admins/:id`  
 - **System Settings**: `GET /settings`, `PUT /settings`  
 - **Billing**: `GET /subscriptions`, `POST /plans/create`
-
-### data modal
-  ![Screenshot (50)](https://github.com/user-attachments/assets/96b73910-a4e8-4dac-905f-60841efb8f60)
-
-### APIs
-
-![Screenshot (51)](https://github.com/user-attachments/assets/7457f242-fcb2-461d-802f-55dc6c16e13a)
 
 
 
